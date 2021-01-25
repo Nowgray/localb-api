@@ -1,0 +1,13 @@
+{
+  "dependencies": {},
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "Localbanda20200621010259ResourceGroup"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "b6e0ece1-6965-40ca-837b-25fb600faa57"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWcUunZCY9EiUE5vlE/+2CgAAAAACAAAAAAAQZgAAAAEAACAAAAAhsFJkbfUawi7LV6cKyRrehQGquDCQblcLzahmN/GLCwAAAAAOgAAAAAIAACAAAADa2vq61r41HvTT4qIXOnwT/NAzW/hvNYcW+McyM0xd9YAAAABSyqaFRdwc0VZafVenLezwJ0J0+5CwvpDDYiW476bwmbSELPncW2iKkscnrcxlzB3c/bBCAiZRbKA+cWW1mkYTa7avnNg+7q3B7wHE9ltWHJPLMj8128RskMCjjWxSVHHyFveO/Whh3aHYLyYf6J96x5BHPA5PpBZeuzXVAmDjZEAAAAAkuaB3m4gzmUVNbrwDDTl6H+XDcCSLwFfV4i08/hRcCIPfbbv7+e4VQ+okS8cMWealk5eygS5ry4nX7xOSG6Us</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="MyConnectionString">
+      <Value>Data Source=tcp:localbandadbserver.database.windows.net,1433%3bInitial Catalog=Localbanda_db%3bUser Id=nowgray%40localbandadbserver%3bPassword=Nowgray%402019</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
